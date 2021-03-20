@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Mask</folder>
+	<filename>1555.jpg</filename>
+	<path>/home/ishani/Desktop/Github/1Datasets/face mask/Train/Mask/1555.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>474</width>
+		<height>710</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>129</xmin>
+			<ymin>213</ymin>
+			<xmax>346</xmax>
+			<ymax>383</ymax>
+		</bndbox>
+	</object>
+</annotation>

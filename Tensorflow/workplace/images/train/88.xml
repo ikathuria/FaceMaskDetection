@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Non Mask</folder>
+	<filename>88.jpg</filename>
+	<path>/home/ishani/Desktop/Github/1Datasets/face mask/Train/Non Mask/88.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>303</width>
+		<height>166</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>noMask</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>71</xmin>
+			<ymin>53</ymin>
+			<xmax>231</xmax>
+			<ymax>166</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Non Mask</folder>
+	<filename>real_01042.jpg</filename>
+	<path>/home/ishani/Desktop/Github/1Datasets/face mask/Test/Non Mask/real_01042.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>noMask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>98</xmin>
+			<ymin>332</ymin>
+			<xmax>488</xmax>
+			<ymax>594</ymax>
+		</bndbox>
+	</object>
+</annotation>
